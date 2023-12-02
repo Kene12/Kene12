@@ -1,6 +1,6 @@
 <h3 align="center">I'm newbie developer. Please help me guide about program development.</h3>
 
--     My name is Panithan Kunkaew 
+</h5>-     My name is Panithan Kunkaew </h5>
 
 - 🌱 I’m currently learning **Data Science, C, C++, C#, machine learning, Data Science, Hack algorithm**
 
