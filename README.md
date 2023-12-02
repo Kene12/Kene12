@@ -2,11 +2,11 @@
 
 -     My name is Panithan Kunkaew 
 
-- 🌱 I’m currently learning **Data Science, C, C++, C#**
+- 🌱 I’m currently learning **Data Science, C, C++, C#, machine learning, Data Science, Hack algorithm**
 
 - 📝 I study branch **Computer Engineering**
 
-- 💬 Enough to know **java, JavaScript, machine learning, Ai, Data Science, manage system information, Hack algorithm, train Ai**
+- 💬 Enough to know **python, html, java, php, javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
