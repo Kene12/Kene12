@@ -17,5 +17,7 @@
 </p>
 
 ![Kene12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kene12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Kene12's Stats](https://github-readme-stats.vercel.app/api?username=Kene12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Kene12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kene12&theme=vue-dark&hide_border=true)
 
 
