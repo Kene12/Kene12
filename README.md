@@ -15,7 +15,6 @@
 <a href="https://instagram.com/kenta_sad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenta_sad" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/panithan-kunkaew-8283502a3/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="panithan kunkaew" height="30" width="40" /></a>
 </p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
