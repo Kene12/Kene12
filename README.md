@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/panithan-kunkaew-8283502a3/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="panithan kunkaew" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/Kene12/github-stats">
 <img src="https://github.com/Kene12/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/Kene12/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 </a>
