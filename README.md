@@ -18,6 +18,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 <img src="https://github.com/Kene12/github-stats/blob/master/generated/languages.svg" />
+
+</a>
 <svg id="gh-dark-mode-only" width="360" height="210" xmlns="http://www.w3.org/2000/svg">
 <style>
 svg {
@@ -131,7 +133,5 @@ tr {
 </g>
 </g>
 </svg>
-</a>
-
 
 
