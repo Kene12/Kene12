@@ -1,5 +1,7 @@
 # 💫 About Me:
-<h2>Hi, I'm Panithan Kunkaew</h2>
+<h2>
+  Wecome to my github<br>
+  Hi, I'm Panithan Kunkaew</h2>
 🛠 I’m currently working on<br>Portfolio website using Next.js & Tailwind CSS<br>Personal projects using React.js and TypeScript<br><br>👯 I’m looking to collaborate on<br>Open-source frontend/backend projects<br>UX/UI design projects<br><br>🤝 I’m looking for help with<br>Enhancing backend performance and scalability<br>Improving responsive UI design<br><br>🌱 I’m currently learning<br>Advanced TypeScript concepts<br>Backend optimization with Node.js and Bun<br>AI & Machine Learning basics with Python<br><br>💬 Ask me about<br>Web Development (Next.js, React.js)<br>API Design and development (Node.js, Bun)<br>UX/UI best practices<br><br>⚡ Fun fact<br>I love coding late at night while listening to Lo-fi music 🎧✨<br>Coffee powers 90% of my coding sessions ☕💻
 
 
